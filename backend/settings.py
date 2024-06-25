@@ -58,11 +58,8 @@ MIDDLEWARE = [
 CORS_ORIGIN_ALLOW_ALL = True
 
 CORS_ALLOWED_ORIGINS = [
-    'http://localhost:3000',
-    'https://leetcode-buddy-frontend-4908759b6393.herokuapp.com/',
-    # front end ^^^^
-    'http://localhost:8000',
-    'https://leetcode-buddy-9528fc5b9687.herokuapp.com/', 
+    'leetcode-buddy-9528fc5b9687.herokuapp.com', 
+    'leetcode-buddy-frontend-4908759b6393.herokuapp.com',
     # backend ^^^^^^
 ]
 
