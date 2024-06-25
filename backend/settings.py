@@ -95,7 +95,6 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 #     }
 # }
 import dj_database_url
-from decouple import config
 DATABASES = {'default': dj_database_url.config(conn_max_age=600)}
 
 # Password validation
