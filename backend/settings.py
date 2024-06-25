@@ -25,7 +25,7 @@ SECRET_KEY = 'eZ0zou4t3obJIABTfF9Us7KcM7slxvgp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://leetcode-buddy-9528fc5b9687.herokuapp.com/']
 
 
 # Application definition
