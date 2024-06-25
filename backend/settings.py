@@ -61,7 +61,8 @@ CORS_ALLOWED_ORIGINS = [
     'https://leetcode-buddy-frontend-4908759b6393.herokuapp.com/',
     # front end ^^^^
     'http://localhost:8000',
-    # Add other origins as needed
+    'https://leetcode-buddy-9528fc5b9687.herokuapp.com/', 
+    # backend ^^^^^^
 ]
 
 
